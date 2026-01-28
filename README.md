@@ -1,5 +1,13 @@
 TransiTera – Travel Mediation System
 
+students:
+- Shahd Haider.
+- Rafah Safwan.
+- Zulfa Ali.
+  Softwadre Engineering - Level 2
+
+---
+
 Overview
 
 TransiTera is a simple Java-based system that simulates a mediator between passengers and travel companies.
